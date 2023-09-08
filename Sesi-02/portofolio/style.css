@@ -1,0 +1,24 @@
+body {
+    background-color: darkgray;
+}
+
+.container {
+    background-color: white;
+    margin-top: 20px;
+}
+
+.navbar ul li {
+    display: inline-block;
+}
+
+.biodata {
+    padding-top: 20px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.profil img {
+    float: left;
+}
